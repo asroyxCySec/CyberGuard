@@ -3,7 +3,7 @@
 CyberGuard - Ethical Security Testing Toolkit
 Version: 2.0
 Purpose: Educational cybersecurity tool for ethical security testing
-Author: Educational Project
+Author: AsroyxCySec
 """
 
 import sys
