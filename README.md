@@ -49,3 +49,19 @@ Tool ini akan menampilkan menu interaktif dengan pilihan 1-6.
 <img width="812" height="778" alt="image" src="https://github.com/user-attachments/assets/603abd98-d03d-46d9-9fab-fcfbbf83be49" />
 <img width="1256" height="730" alt="image" src="https://github.com/user-attachments/assets/2ae33ca9-cb4d-4ecb-9c2b-c5d4b7ba35f2" />
 
+## ⚡ Keunggulan:
+### ✅ 100% Legal & Etis - Hanya untuk testing sistem sendiri
+### ✅ Educational - Lengkap dengan penjelasan
+### ✅ No Dependencies - Hanya menggunakan library Python standar
+### ✅ User Friendly - Interface dengan warna dan ASCII art
+### ✅ Comprehensive - Multiple tools dalam satu aplikasi
+### ✅ Production Ready - Error handling dan validasi lengkap
+
+## 💡 Tips Penggunaan:
+
+- Password Analyzer: Gunakan untuk test password Anda sendiri
+- SSL Checker: Test website yang Anda kelola
+- Port Scanner: HANYA untuk sistem yang Anda miliki atau ada izin
+- Header Analyzer: Cek keamanan website Anda
+
+Tool ini dibuat untuk pembelajaran dan harus digunakan secara etis.
